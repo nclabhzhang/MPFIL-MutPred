@@ -28,7 +28,7 @@ python generate_mpad.py
 ```
 
 ## Protein LLM Settings
-* Download [pytorch_model.bin](https://drive.google.com/file/d/1ZXpWZELAmTC9IfqpMYQ16BUUUfIanYpv/view?usp=drive_link) and unzip the file in folder ./model/protein_llm/.
+* Download [pytorch_model.bin](https://huggingface.co/Rostlab/prot_t5_xl_uniref50/tree/main) and unzip the file in folder ./model/protein_llm/.
 
 
 ## Training & Evaluation for Ten-Fold-Cross-Validation
